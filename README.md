@@ -13,8 +13,7 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 
 ## Citation
 If you appreciate the Two-Stage Summarization Framework, please consider citing the associated paper:
-1. 黃千翔（2023）。預訓練模型在少資源環境下的摘要能力：以交通過失傷害判決書為例。﹝碩士論文。臺北市立大學﹞臺北市立大學博碩士論文知識加值系統。
-http://theses.utaipei.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dstdcdr&s=id=%22G0G11116002%22.&searchmode=basic
+1. 黃千翔（2023）。預訓練模型在少資源環境下的摘要能力：以交通過失傷害判決書為例。﹝碩士論文。臺北市立大學﹞臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/ha5vm8。
 2. 遲佑成（2022）。以GPT2模型進行遷移式訓練交通過失傷害罪判決之摘要。﹝碩士論文。臺北市立大學﹞臺灣博碩士論文知識加值系統。https://hdl.handle.net/11296/259yu4。
 
 Furthermore, if you find ChatGLM-6B useful, please consider citing the following papers:
